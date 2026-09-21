@@ -2,11 +2,6 @@
 
 An AI-powered **Text-to-SQL** application that converts natural-language questions into SQL queries and displays the results from a SQLite database.
 
-## 🚀 Live Demo
-
-👉 [AI Data Analyst](https://text-to-sql-chatbotai.streamlit.app/)
-
-## ✨ Features
 
 - Ask questions about your data in natural language
 - Automatically extracts the SQLite database schema
